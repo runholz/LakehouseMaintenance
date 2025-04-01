@@ -17,8 +17,8 @@ This ensures your Lakehouse remains **performant, lean, and cost-efficient**—w
 ## 📽️ What Does "Optimize" Look Like?
 
 Here's a quick visual of the **optimize** operation in action. Small parquet files are compacted into larger, more efficient ones:
+![Optimize_Gif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8981e257-d1ee-4391-887b-7d574314032b)
 
-![Optimize Operation](./Optimize_Gif-ezgif.com-video-to-gif-converter.gif)
 
 This helps improve performance and reduce unnecessary overhead in your Lakehouse tables.
 
@@ -28,7 +28,6 @@ This helps improve performance and reduce unnecessary overhead in your Lakehouse
 
 - `LakehouseMaintenance.ipynb` – The main notebook that orchestrates the maintenance workflow.
 - `README.md` – You’re reading it!
-- `Optimize_Gif-ezgif.com-video-to-gif-converter.gif` – A demo of the optimize operation.
 - *(Optional)* Any helper modules or configuration files.
 
 ---
